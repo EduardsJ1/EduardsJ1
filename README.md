@@ -37,8 +37,8 @@
 
 ### 📌 Featured Projects
 
-- 🔐 **Personal Finance Tracker** - TypeScript, Node.js, PostgreSQL, JWT Auth, Analytics Dashboard
-- 🧠 **SEO-Optimized React App** – Single Page App optimized using Cloudflare & structured data
+- 🔐 <a href="https://github.com/EduardsJ1/expense-tracker-app">**Personal Finance Tracker**</a> - TypeScript, Node.js, PostgreSQL, JWT Auth, Analytics Dashboard
+- 🧠 <a href="https://polex.lv/">**SEO-Optimized React App**</a> – Single Page App optimized using Cloudflare & structured data
 
 ---
 
