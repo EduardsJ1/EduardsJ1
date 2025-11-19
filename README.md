@@ -6,7 +6,6 @@
 ### 🧑‍💻 About Me
 
 - 🎓 Bachelor’s degree in IT from RTU
-- 🌱 Currently building a **personal finance tracker** using Node.js, TypeScript, and PostgreSQL
 - 🚀 Passionate about **full-stack development**
 - 📫 Reach me: **eduardsjanitis@gmail.com**
 
